@@ -1,0 +1,7 @@
+node_modules/
+www/pdf.min.js
+www/pdf.worker.min.js
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties

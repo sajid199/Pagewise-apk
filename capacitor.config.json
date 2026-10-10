@@ -1,0 +1,9 @@
+{
+  "appId": "com.pagewise.reader",
+  "appName": "Pagewise",
+  "webDir": "www",
+  "backgroundColor": "#F6F5F1",
+  "android": {
+    "allowMixedContent": false
+  }
+}
